@@ -38,7 +38,7 @@ After uploading and processing `test_image.jpg`, the code detects faces and draw
 
 **Example Output:**
 
-![Example Output](test_image.jpg)
+![Example Output](test_image.png)
 
 ---
 
